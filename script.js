@@ -5,7 +5,7 @@ const error = document.getElementById("error");
 let cards = [];
 
 // Surse aprobate pentru imagini
-const approvedSources = ["chatgpt.com/images/", "deepseek.ai/"];
+const approvedSources = ["chatgpt"];
 
 // Încarcă date inițiale
 fetch("cards.json")
@@ -82,3 +82,4 @@ function createCardElement(card) {
   `;
   return cardDiv;
 }
+
