@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "imagine": "default-card.png",
+    "likes": 0,
+    "dislikes": 0
+  },
+  {
+    "id": 2,
+    "imagine": "default-card.png",
+    "likes": 0,
+    "dislikes": 0
+  }
+]

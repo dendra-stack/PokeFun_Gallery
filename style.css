@@ -1,0 +1,9 @@
+body { font-family: sans-serif; margin: 20px; background-color: #f0f8ff; }
+h1, h2 { text-align: center; color: #333; }
+form { margin-bottom: 20px; text-align: center; }
+form input { margin: 5px; padding: 5px; width: 300px; }
+form button { padding: 5px 10px; }
+#gallery, #topGallery { display: flex; flex-wrap: wrap; justify-content: center; }
+.card { border: 1px solid #ccc; padding: 10px; margin: 10px; width: 180px; text-align: center; background-color: #fff; border-radius: 8px; box-shadow: 1px 1px 5px rgba(0,0,0,0.2); }
+.card img { width: 150px; height: 210px; object-fit: cover; border-radius: 5px; }
+.card button { margin: 5px; padding: 3px 7px; cursor: pointer; }
