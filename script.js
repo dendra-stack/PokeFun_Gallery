@@ -99,3 +99,4 @@ function updateGalleries(){
 
 // Initializare galerie
 updateGalleries();
+
